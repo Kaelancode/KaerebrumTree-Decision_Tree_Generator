@@ -1,0 +1,38 @@
+digraph {
+	dpi=96
+	node [fontname=Rubik]
+	node [color="#338be3" fillcolor=lightskyblue fontcolor=midnightblue shape=octagon style="rounded, filled"]
+	Root [label="Root Node at depth 0 ( Sex == female)
+ Total: 712   counts = [432 280]
+ score = 0.966870
+ split_score = 0.750381"]
+	node [color="#3eb265" fillcolor="#ffcb30" fontcolor=saddlebrown shape=oval style="filled, rounded"]
+	"LeftLeaf 1 1Root" [label="Left Leaf at depth 1
+ Total: 254   counts = [ 64 190]
+ score = 0.814383
+ value = 1"]
+	Root -> "LeftLeaf 1 1Root" [label=Yes color=lightblue2 fontname=Rubik]
+	overlap=false
+	node [bgcolor="#89ffff" color="#00d2ff" fillcolor="#89ffff" fontcolor=steelblue4 label_scheme=2 shape=box style="rounded, filled"]
+	"Right Node 1 7Root" [label="Right Node at depth 1 ( Fare <= 15.1)
+ Total: 458   counts = [368  90]
+ score = 0.714886
+ split_score = 0.676231"]
+	node [color="#3eb265" fillcolor="#fff800" fontcolor=saddlebrown shape=oval style="filled, rounded"]
+	"LeftLeaf 2 0Right Node 1 7Root" [label="Left Leaf at depth 2
+ Total: 269   counts = [237  32]
+ score = 0.526361
+ value = 0"]
+	"Right Node 1 7Root" -> "LeftLeaf 2 0Right Node 1 7Root" [label=Yes color=lightblue2 fontname=Rubik]
+	overlap=false
+	node [color="#3eb265" fillcolor="#ffcb30" fontcolor=saddlebrown shape=oval style="filled, rounded"]
+	"RightLeaf 2 0Right Node 1 7Root" [label="Right Leaf at depth 2
+ Total: 189   counts = [131  58]
+ score = 0.889537
+ value = 0"]
+	"Right Node 1 7Root" -> "RightLeaf 2 0Right Node 1 7Root" [label=No color=lightblue2 fontname=Rubik]
+	overlap=false
+	Root -> "Right Node 1 7Root" [label=No color=lightblue2 fontname=Rubik label_scheme=2]
+	overlap=false
+	overlap=false
+}
