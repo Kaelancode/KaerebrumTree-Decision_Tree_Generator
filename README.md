@@ -14,11 +14,11 @@ Using streamlit for quick frontend deployment of a nice looking dashboard.
 ***
 [Link to live app](https://kaerubrumtree.herokuapp.com/)
 
-![alt text](tree data.PNG "Canvas")
+![alt text](Tree data.PNG "Canvas")
 
 ![alt text](tree params.PNG "Gallery")
 
-![alt text](tree map.PNG "Gallery")
+![alt text](Tree map.PNG "Gallery")
 
 ![alt text](tree report.PNG "Gallery")
 
