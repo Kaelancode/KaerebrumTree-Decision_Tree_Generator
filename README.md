@@ -9,7 +9,7 @@
 The algorithm is build from scratch using numpy and graphviz.\
 Using streamlit for quick frontend deployment of a nice looking dashboard.
 
-<h3 align="center">Project View</h3>
+<h2 align="center">Project View</h2>
 
 ***
 [Link to live app](https://kaerubrumtree.herokuapp.com/)
@@ -19,12 +19,12 @@ Using streamlit for quick frontend deployment of a nice looking dashboard.
 
 ![alt text](Tree_data.PNG "data")
 
-<align="center"> Tune paramters to get desired output </h1>
+<h3align="center"> Tune paramters to get desired output </h3>
 ![alt text](tree_params.PNG "params")
 
-<align="center"> Different map layout to choose and to be downloaded </h1>
+<h3 align="center"> Different map layout to choose and to be downloaded </h1>
 ![alt text](Tree_map.PNG "map")
 
-<align="center">  </h1>
+<h3 align="center"> Outputs predictions report as well as generate decision rules as code for replication  </h1>
 ![alt text](tree_report.PNG "report")
 
