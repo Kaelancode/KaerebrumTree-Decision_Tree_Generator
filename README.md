@@ -19,12 +19,12 @@ Using streamlit for quick frontend deployment of a nice looking dashboard.
 
 ![alt text](Tree_data.PNG "data")
 
-
+<align="center"> Tune paramters to get desired output </h1>
 ![alt text](tree_params.PNG "params")
 
-
+<align="center"> Different map layout to choose and to be downloaded </h1>
 ![alt text](Tree_map.PNG "map")
 
-
+<align="center">  </h1>
 ![alt text](tree_report.PNG "report")
 
