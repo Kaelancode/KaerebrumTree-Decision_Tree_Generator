@@ -15,7 +15,7 @@ Using streamlit for quick frontend deployment of a nice looking dashboard.
 [Link to live app](https://kaerubrumtree.herokuapp.com/)
 
 
-<h3 color = 'red' align="center">Project View</h1>
+<align="center"> Submit data for prediction </h1>
 
 ![alt text](Tree_data.PNG "data")
 
