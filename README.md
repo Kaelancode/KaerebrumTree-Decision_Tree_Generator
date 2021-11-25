@@ -1,5 +1,5 @@
 # KaerebrumTree-Decision_Tree_Generator
-### The algorithm is build from scratch using numpy and graphviz.\
+### The algorithm is build from scratch using numpy and graphviz.
 ### Using streamlit for quick frontend deployment of a nice looking dashboard.
 ### Decision Tree Application to 
 1.  draw pretty detailed decision tree maps 
