@@ -5,6 +5,6 @@
 3.  generate code for reproduction 
 
 
-The algorithm is build from scratch using numpy and graphviz.
+The algorithm is build from scratch using numpy and graphviz.\
 Using streamlit for quick frontend deployment of a dashboard.
 
