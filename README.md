@@ -9,13 +9,13 @@
 The algorithm is build from scratch using numpy and graphviz.\
 Using streamlit for quick frontend deployment of a nice looking dashboard.
 
-<h3 align="center">Project View</h1>
+<h3 align="center">Project View</h3>
 
 ***
 [Link to live app](https://kaerubrumtree.herokuapp.com/)
 
 
-<align="center"> Submit data for prediction </h1>
+<h3 align="center"> Submit data for prediction </h3>
 
 ![alt text](Tree_data.PNG "data")
 
