@@ -1,7 +1,7 @@
 # KaerebrumTree-Decision_Tree_Generator
 ### Decision Tree Application to 
-1.  draw decision tree maps 
-2.  Nice detailed tree maps with choice of map layouts
+1.  draw pretty detailed decision tree maps 
+2.  tree maps with choice of map layouts
 3.  generate decision rules as code for reproduction
 4.  able to train categorical data
 
