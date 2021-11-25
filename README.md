@@ -16,6 +16,7 @@ Using streamlit for quick frontend deployment of a nice looking dashboard.
 
 
 <h3 color = 'red' align="center">Project View</h1>
+
 ![alt text](Tree_data.PNG "data")
 
 
