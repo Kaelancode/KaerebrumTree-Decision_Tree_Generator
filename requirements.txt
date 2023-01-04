@@ -3,3 +3,4 @@ graphviz
 numpy==1.21.2
 pandas==1.2.4
 scikit-learn==0.24.2
+protobuf==3.20.*
